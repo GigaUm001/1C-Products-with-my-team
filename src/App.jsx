@@ -24,6 +24,7 @@ function App() {
       <SectionSeven />
       <SectionEight />
       <Footer />
+      {/* FOoOter */}
     </>
   )
 }
