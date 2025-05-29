@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import Nav from '../Nav/Nav'
-
+import section1_img from './../../assets/img/section1_img.png';
 const Header = () => {
   return (
     <>
@@ -16,7 +16,7 @@ const Header = () => {
 
                 </div>
 
-                <div className='bg-[#43A548] w-[508px] h-[451px]'></div>
+                <div className='w-[608px] h-[451px]'><img className='w-full' src={section1_img} alt="" /></div>
             </div>
         </div>
       </header>

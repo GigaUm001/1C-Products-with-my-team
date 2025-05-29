@@ -4,7 +4,7 @@ const Nav = () => {
   return (
     <>
       <nav className='w-[100%] h-[88px] flex items-center justify-between px-[100px] '>
-        <h2 className='w-[172px] h-[40px] font-bold flex items-center gap-[10px]'><div className='bg-green-500 w-[40px] h-[40px] rounded-[50%] content-center text-center text-white text-[27px]'>H</div>LOGO</h2>
+        <h2 className='w-[172px] h-[40px] font-bold flex items-center gap-[10px]'><div className='bg-green-500 w-[40px] h-[40px] rounded-[50%] content-center text-center text-white text-[27px]'>H</div>1С-Товары</h2>
 
         <div>
             <ul className='flex items-center gap-[51px] text-[14px]'>
