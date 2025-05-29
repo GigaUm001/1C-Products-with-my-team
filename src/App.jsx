@@ -3,6 +3,7 @@ import SectionEight from './components/SectionEight/SectionEight'
 import SectionOne from './components/SectionOne/SectionOne'
 import SectionSeven from './components/SectionSeven/SectionSeven'
 import SectionSix from './components/SectionSix/SectionSix'
+import Footer from './components/Footer/Footer'
 
 function App() {
 
@@ -22,6 +23,7 @@ function App() {
       <SectionSix />
       <SectionSeven />
       <SectionEight />
+      <Footer />
     </>
   )
 }
