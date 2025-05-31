@@ -3,6 +3,8 @@ import SectionEight from './components/SectionEight/SectionEight'
 import SectionOne from './components/SectionOne/SectionOne'
 import SectionSeven from './components/SectionSeven/SectionSeven'
 import SectionSix from './components/SectionSix/SectionSix'
+import Snami from './Components/S nami/Snami.jsx';
+import Dlya from './Components/Dlya/Dlya.jsx';
 import Footer from './components/Footer/Footer'
 
 function App() {
@@ -11,22 +13,13 @@ function App() {
     <>
       <Header />
       <SectionOne />
-      {/* 
-    1
-    2
-    3
-    4
-    5
-   */}
-
-
+      <Snami />
+      <Dlya />
       <SectionSix />
       <SectionSeven />
       <SectionEight />
       <Footer />
-      {/* FOoOter  */}
-    </>
-  )
-}
+      </>
+      )};
 
-export default App
+      export default App

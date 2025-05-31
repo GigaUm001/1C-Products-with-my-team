@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "paket",
+=======
+  "name": "tavar_1c_big_praekt",
+>>>>>>> a4f88e4828176f5be8a184047f1b895fc80090a3
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,15 +17,22 @@
     "@tailwindcss/vite": "^4.1.8",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+<<<<<<< HEAD
     "react-icons": "^5.5.0",
     "swiper": "^11.2.8",
+=======
+>>>>>>> a4f88e4828176f5be8a184047f1b895fc80090a3
     "tailwindcss": "^4.1.8"
   },
   "devDependencies": {
     "@eslint/js": "^9.25.0",
     "@types/react": "^19.1.2",
     "@types/react-dom": "^19.1.2",
+<<<<<<< HEAD
     "@vitejs/plugin-react": "^4.4.1",
+=======
+    "@vitejs/plugin-react-swc": "^3.9.0",
+>>>>>>> a4f88e4828176f5be8a184047f1b895fc80090a3
     "eslint": "^9.25.0",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.19",
