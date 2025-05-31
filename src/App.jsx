@@ -24,7 +24,7 @@ function App() {
       <SectionSeven />
       <SectionEight />
       <Footer />
-      {/* FOoOter */}
+      {/* FOoOter  */}
     </>
   )
 }
