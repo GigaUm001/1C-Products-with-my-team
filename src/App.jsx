@@ -19,7 +19,8 @@ function App() {
       <SectionSeven />
       <SectionEight />
       <Footer />
-      </>
-      )};
+    </>
+  )
+};
 
-      export default App
+export default App

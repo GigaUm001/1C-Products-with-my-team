@@ -6,7 +6,7 @@ function Snami() {
     return (
         <>
             <div className="max-w-[1312px] mx-auto">
-                <div>
+                <div className='pt-[50px]'>
                     <h1 className='text-3xl '>С нами удобнее</h1>
                     <div className="flex items-center justify-center gap-[20px] mt-[60px]">
                         <div className="w-[646px] h-[553px] rounded-[40px] bg-gray-100">
